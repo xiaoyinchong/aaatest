@@ -1,0 +1,11 @@
+zimu.txt ，添加条件因子，如
+用户名拼音。公司域名，可能用的密码组成因子
+如admin  passwd root sys 等
+
+shuzi.txt 常用规则数字，暂时不用添加
+运行domain_pass.py ，即可生成组合后的密码mm.txt
+
+
+top100为最常用的密码100个
+
+burp_pass是常用密码3424个
